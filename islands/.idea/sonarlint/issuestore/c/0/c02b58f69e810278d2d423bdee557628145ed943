@@ -1,0 +1,19 @@
+
+]
+java:S1126"AReplace this if-then-else statement by a single return statement.(ã¸öl8æíÍ·ä.
+V
+java:S1854)"9Remove this useless assignment to local variable "nCols".(§›Á»8æíÍ·ä.
+U	java:S106f"9Replace this use of System.out or System.err by a logger.(ÜÀå®8™¶¢·ä.
+L
+java:S1481("*Remove this unused "nRows" local variable.(£Ÿ„ûÿÿÿÿ8æíÍ·ä.
+[
+java:S1854("9Remove this useless assignment to local variable "nRows".(£Ÿ„ûÿÿÿÿ8æíÍ·ä.
+Z	java:S106\"9Replace this use of System.out or System.err by a logger.(ğ”ïàÿÿÿÿÿ8òğÊëã.
+G
+java:S1481)"*Remove this unused "nCols" local variable.(§›Á»8æíÍ·ä.
+7
+java:S1220""Move this file to a named package.8½¤·ãã.
+A
+java:S1659G"Declare "j" on a separate line.(¦¢Éëùÿÿÿÿ8æíÍ·ä.
+I
+java:S1612]",Replace this lambda with a method reference.(ÖâÈ8ÛîÂ·ä.
